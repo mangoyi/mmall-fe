@@ -1,2 +1,7 @@
-cats = require('./cats.js');
-console.log(cats);
+'use strict';
+
+// var $ = require('jquery');
+// $('body').html("HELLO INDEX");
+
+require('./index.css');
+require('../module.js');
